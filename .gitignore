@@ -1,2 +1,8 @@
 data/
 .idea/
+ppt/
+mecab/
+JPype/
+code/.ipynb_checkpoints/
+models/
+data2/description_okt.csv
